@@ -36,6 +36,6 @@ int main() {
             fastest = diff;
         }
     }
-    printf("fastest time: 0.%ld microseconds\n", fastest);
+    printf("fastest time: %lde-7\n", fastest);
     return 0;
 }
